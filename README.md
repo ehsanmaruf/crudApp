@@ -13,3 +13,6 @@ npm start
 ```
 
 Enjoy...!
+
+user: "admin"
+pass: "admin123"
